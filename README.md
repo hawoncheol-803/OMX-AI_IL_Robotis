@@ -7,4 +7,4 @@
 
 3.[리눅스 윈도우 듀얼부팅](md/리눅스_윈도우_듀얼부팅.md)
 
-4.[OMX와 LeRobot을 활용한 Physical AI 및 모방학습 실습 가이드](md/OMX와 LeRobot을 활용한 Physical AI 및 모방학습 실습 가이드.md)
+4.[OMX와 LeRobot을 활용한 Physical AI 및 모방학습 실습 가이드](<md/OMX와 LeRobot을 활용한 Physical AI 및 모방학습 실습 가이드.md>)
