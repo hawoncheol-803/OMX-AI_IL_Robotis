@@ -123,7 +123,7 @@ Follower → /dev/ttyACM0
 Leader   → /dev/ttyACM1
 ```
 
-**주의:** 위 포트는 예시이므로 실제 PC에서는 `lerobot-find-port` 결과를 사용해야 한다.
+**주의:** 위 포트는 동영상에서의 예시이므로 실제 PC에서는 `lerobot-find-port` 결과를 사용해야 한다.
 
 ---
 
