@@ -617,14 +617,3 @@ OMX가 작업을 자율적으로 수행
 이라는 구조를 통해 사람이 직접 프로그래밍하지 않아도 로봇이 실제 작업을 수행하도록 학습시킬 수 있다.
 
 이러한 과정이 Physical AI와 Imitation Learning의 기본적인 Workflow이다.
-
----
-
-# 20. 참고 자료
-
-* [ROBOTIS OMX Setup Guide](https://ai.robotis.com/omx/setup_guide_omx.html)
-* [ROBOTIS OMX LeRobot Imitation Learning](https://ai.robotis.com/omx/lerobot_imitation_learning_omx.html)
-* [Hugging Face LeRobot](https://huggingface.co/docs/lerobot/)
-* [LeRobot GitHub](https://github.com/huggingface/lerobot)
-* [LeRobot OMX Example](https://github.com/huggingface/lerobot/tree/main/examples/omx)
-* [AI MANIPULATOR #6: Beginner's Guide to Physical AI with OMX & LeRobot](https://www.youtube.com/watch?v=uxiOghvNLTs)
